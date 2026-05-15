@@ -34,9 +34,9 @@ const CONFIG = {
   DM_PRESENCE: process.env.DM_PRESENCE || '',
   GRP_PRESENCE: process.env.GRP_PRESENCE || '',
   USER_LID: parseLids(process.env.USER_LID || ''),
-  OWNER_NUMBER: process.env.OWNER_NUMBER || '',
-  OWNER_NAME: process.env.OWNER_NAME || 'FLASH-MD Owner',
-  BOT_NAME: process.env.BOT_NAME || 'Flash-Md-V3',
+  OWNER_NUMBER: process.env.OWNER_NUMBER || '6285788390394',
+  OWNER_NAME: process.env.OWNER_NAME || 'Scarlatte',
+  BOT_NAME: process.env.BOT_NAME || 'Zoltraak Md',
   BOT_VERSION: process.env.BOT_VERSION || '3.0.0'
 }
 
